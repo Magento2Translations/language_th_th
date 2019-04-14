@@ -1,0 +1,514 @@
+"Read Details",อ่านรายละเอียด,module,Magento_AdminNotification
+"Mark as Read",ทำเครื่องหมายว่าอ่านแล้ว,module,Magento_AdminNotification
+"Are you sure?",คุณแน่ใจหรือไม่?,module,Magento_AdminNotification
+Remove,ลบ,module,Magento_AdminNotification
+"Messages Inbox",กล่องข้อความ,module,Magento_AdminNotification
+"You have %1 new system messages","คุณมี %1 ข้อความใหม่",module,Magento_AdminNotification
+"You have %1 new system message","คุณมี %1 ข้อความใหม่",module,Magento_AdminNotification
+"Incoming Message",ข้อความขาเข้า,module,Magento_AdminNotification
+close,ปิด,module,Magento_AdminNotification
+Notifications,การแจ้งเตือน,module,Magento_AdminNotification
+"The message has been marked as Read.",ข้อความถูกทำเครื่องหมายเป็นอ่านแล้ว,module,Magento_AdminNotification
+"We couldn't mark the notification as Read because of an error.",เราไม่สามารถทำเครื่องหมายการแจ้งเตือนว่าอ่านเนื่องจากข้อผิดพลาด,module,Magento_AdminNotification
+"Please select messages.",โปรดเลือกข้อความ,module,Magento_AdminNotification
+"We couldn't remove the messages because of an error.",เราไม่สามารถลบข้อความได้เนื่องจากข้อผิดพลาด,module,Magento_AdminNotification
+"The message has been removed.",ข้อความได้ถูกลบแล้ว,module,Magento_AdminNotification
+"1 Hour","1 ชั่วโมง",module,Magento_AdminNotification
+"2 Hours","2 ชั่วโมง",module,Magento_AdminNotification
+"6 Hours","6 ชั่วโมง",module,Magento_AdminNotification
+"12 Hours","12 ชั่วโมง",module,Magento_AdminNotification
+"24 Hours","24 ชั่วโมง",module,Magento_AdminNotification
+notice,การแจ้งเตือน,module,Magento_AdminNotification
+"Wrong message type",ชนิดของข้อความไม่ถูกต้อง,module,Magento_AdminNotification
+"Wrong notification ID specified.","ระบุ ID การแจ้งเตือนไม่ถูกต้อง",module,Magento_AdminNotification
+"System Messages:",ข้อความของระบบ:,module,Magento_AdminNotification
+"Critical System Messages",ข้อความสำคัญของระบบ,module,Magento_AdminNotification
+"System messages",ข้อความของระบบ,module,Magento_AdminNotification
+Close,ปิด,module,Magento_AdminNotification
+"See All (","ดูทั้งหมด (",module,Magento_AdminNotification
+" unread)"," ยังไม่ได้อ่าน)",module,Magento_AdminNotification
+"Payment capturing error.","Payment capturing เกิดข้อผิดพลาด",module,Magento_Authorizenet
+"Invalid transaction ID.","Transaction ID ใช้ไม่ได้",module,Magento_Authorizenet
+"Authorize Only","Authorize เท่านั้น",module,Magento_Authorizenet
+"Authorize and Capture","Authorize และ Capture",module,Magento_Authorizenet
+"Credit Card Type",ประเภทบัตรเครดิต,module,Magento_Authorizenet
+"Please Select",กรุณาเลือก,module,Magento_Authorizenet
+"Credit Card Number",หมายเลขบัตรเครดิต,module,Magento_Authorizenet
+"Expiration Date",วันหมดอายุ,module,Magento_Authorizenet
+"Card Verification Number",รหัสยืนยันของบัตร,module,Magento_Authorizenet
+"Invalid Form Key. Please refresh the page.","รหัสฟอร์มไม่ถูกต้อง กรุณารีเฟรชหน้า",module,Magento_Backend
+"You entered an invalid Secret Key. Please refresh the page.","คุณป้อนรหัสลับไม่ถูกต้อง กรุณารีเฟรชหน้า",module,Magento_Backend
+"Cache Storage Management",การจัดการที่เก็บแคช,module,Magento_Backend
+"Flush Magento Cache","ล้างแคชของ Magento",module,Magento_Backend
+"The cache storage may contain additional data. Are you sure that you want to flush it?","ที่จัดเก็บแคชอาจประกอบด้วยข้อมูลอื่นเพิ่มเติม คุณแน่ใจหรือไม่ว่าต้องการล้างมัน?",module,Magento_Backend
+"Flush Cache Storage",ล้างที่เก็บแคช,module,Magento_Backend
+Invalidated,วันที่ไม่ถูกต้อง,module,Magento_Backend
+Orders,รายการสั่งซื้อ,module,Magento_Backend
+Amounts,ยอดเงิน,module,Magento_Backend
+Bestsellers,สินค้าที่ขายดี,module,Magento_Backend
+"Most Viewed Products",สินค้าที่ดูมากที่สุด,module,Magento_Backend
+"New Customers",ลูกค้าใหม่,module,Magento_Backend
+Customers,ลูกค้า,module,Magento_Backend
+Customer,ลูกค้า,module,Magento_Backend
+Guest,ผู้ใช้ทั่วไป,module,Magento_Backend
+Items,รายการ,module,Magento_Backend
+Total,รวม,module,Magento_Backend
+"Lifetime Sales",ยอดขายตลอดการใช้งาน,module,Magento_Backend
+"Average Order",สั่งซื้อโดยเฉลี่ย,module,Magento_Backend
+Average,ค่าเฉลี่ย,module,Magento_Backend
+Product,สินค้า,module,Magento_Backend
+Price,ราคา,module,Magento_Backend
+Quantity,จำนวน,module,Magento_Backend
+Views,ดู,module,Magento_Backend
+Revenue,รายได้,module,Magento_Backend
+Tax,ภาษี,module,Magento_Backend
+Shipping,การจัดส่ง,module,Magento_Backend
+"Images (.gif, .jpg, .png)","รูปภาพ (.gif, .jpg, .png)",module,Magento_Backend
+"Media (.avi, .flv, .swf)","สื่อ (.avi, .flv, .swf)",module,Magento_Backend
+"All Files",แฟ้มทั้งหมด,module,Magento_Backend
+"Reset to Default",รีเซ็ตเป็นค่าเริ่มต้น,module,Magento_Backend
+"All Store Views",มุมมองร้านค้าทั้งหมด,module,Magento_Backend
+"What is this?",นี่คืออะไร?,module,Magento_Backend
+"Save Account",บันทึกบัญชี,module,Magento_Backend
+"My Account",บัญชีของฉัน,module,Magento_Backend
+"Account Information",ข้อมูลบัญชี,module,Magento_Backend
+"User Name",ชื่อผู้ใช้,module,Magento_Backend
+"First Name",ชื่อ,module,Magento_Backend
+"Last Name",นามสกุล,module,Magento_Backend
+Email,อีเมล,module,Magento_Backend
+"User Email",อีเมลผู้ใช้,module,Magento_Backend
+"New Password",รหัสผ่านใหม่,module,Magento_Backend
+"Password Confirmation",ยืนยันรหัสผ่าน,module,Magento_Backend
+"Interface Locale",ภาษาของอินเตอร์เฟซ,module,Magento_Backend
+"Current User Identity Verification",ยืนยันตัวตนผู้ใช้ปัจจุบัน,module,Magento_Backend
+"Your Password",รหัสผ่านของคุณ,module,Magento_Backend
+"Save Cache Settings",บันทึกการตั้งค่าแคช,module,Magento_Backend
+Refresh,รีเฟรช,module,Magento_Backend
+"Images Cache",แคชรูปภาพ,module,Magento_Backend
+Clear,ล้างข้อมูล,module,Magento_Backend
+"Search Index",ดัชนีการค้นหา,module,Magento_Backend
+Rebuild,สร้างใหม่,module,Magento_Backend
+"Inventory Stock Status",สถานะสินค้าคงคลัง,module,Magento_Backend
+"Rebuild Catalog Index",สร้างดัชนี้แค็ตตาล็อกใหม่,module,Magento_Backend
+"All Cache",แคชทั้งหมด,module,Magento_Backend
+Disable,ปิดการใช้งาน,module,Magento_Backend
+Enable,เปิดใช้งาน,module,Magento_Backend
+Back,ย้อนกลับ,module,Magento_Backend
+Delete,ลบ,module,Magento_Backend
+"Are you sure?",คุณแน่ใจหรือไม่?,module,Magento_Backend
+Save,บันทึก,module,Magento_Backend
+"General Settings",การตั้งค่าทั่วไป,module,Magento_Backend
+Store,ร้านค้า,module,Magento_Backend
+"-- Please Select --","-- โปรดเลือก-",module,Magento_Backend
+"Custom Design",แบบกำหนดเอง,module,Magento_Backend
+"Date From",วันที่เริ่มต้น,module,Magento_Backend
+General,ทั่วไป,module,Magento_Backend
+Cancel,ยกเลิก,module,Magento_Backend
+"Delete %1 '%2'","ลบ %1 '%2 '",module,Magento_Backend
+"Delete %1","ลบ %1 ' '",module,Magento_Backend
+"Backup Options",ตัวเลือกการสำรองข้อมูล,module,Magento_Backend
+"Create DB Backup",สร้างการสำรองข้อมูลใหม่,module,Magento_Backend
+Yes,ใช่,module,Magento_Backend
+No,ไม่,module,Magento_Backend
+"Delete Store","ลบ ร้านค้า",module,Magento_Backend
+"Delete Web Site",ลบเว็บไซต์,module,Magento_Backend
+"Save Web Site",บันทึกเว็บไซต์,module,Magento_Backend
+"Save Store",บันทึกร้านค้า,module,Magento_Backend
+"Save Store View","บันทึก มุมมองร้านค้า",module,Magento_Backend
+"Delete Store View","ลบ มุมมองร้านค้า",module,Magento_Backend
+"Edit Web Site","แก้ไข เว็บไซต์",module,Magento_Backend
+"New Web Site","สร้าง เว็บไซต์ใหม่",module,Magento_Backend
+"Edit Store","แก้ไข ร้านค้า",module,Magento_Backend
+"New Store","สร้าง ร้านค้า ใหม่",module,Magento_Backend
+"Edit Store View","แก้ไข มุมมอง ร้านค้า",module,Magento_Backend
+"New Store View","สร้าง มุมมองร้านค้าใหม่",module,Magento_Backend
+"Store Information",ข้อมูลร้านค้า,module,Magento_Backend
+"Web Site",เว็บไซต์,module,Magento_Backend
+Name,ชื่อ,module,Magento_Backend
+Code,รหัส,module,Magento_Backend
+"Root Category",หมวดหมู่หลัก,module,Magento_Backend
+"Default Store View",มุมมองร้านค้าเริ่มต้น,module,Magento_Backend
+"Store View Information",ข้อมูลมุมมองร้านค้า,module,Magento_Backend
+Status,สถานะ,module,Magento_Backend
+Disabled,ปิดการใช้งาน,module,Magento_Backend
+Enabled,เปิดใช้งาน,module,Magento_Backend
+"Sort Order",การเรียงลำดับ,module,Magento_Backend
+"Web Site Information",ข้อมูลเกี่ยวกับเว็บไซต์,module,Magento_Backend
+"Default Store",ร้านค้าเริ่มต้น,module,Magento_Backend
+"Set as Default",ตั้งเป็นค่าเริ่มต้น,module,Magento_Backend
+Stores,ร้านค้า,module,Magento_Backend
+"Create Website",สร้างเว็บไซต์,module,Magento_Backend
+"Create Store",สร้างร้านค้า,module,Magento_Backend
+"Create Store View",สร้างมุมมองร้านค้า,module,Magento_Backend
+Home,หน้าหลัก,module,Magento_Backend
+Reset,รีเซ็ต,module,Magento_Backend
+"Are you sure you want to do this?",คุณแน่ใจว่าต้องการทำเช่นนี้,module,Magento_Backend
+"Add New Image",เพิ่มรูปภาพใหม่,module,Magento_Backend
+"Reset Filter",รีเซ็ตตัวกรอง,module,Magento_Backend
+Search,ค้นหา,module,Magento_Backend
+Any,อะไรก็ได้,module,Magento_Backend
+"All Countries",ทุกประเทศ,module,Magento_Backend
+From,จาก,module,Magento_Backend
+To,ถึง,module,Magento_Backend
+"Date selector",เลือกวันที่,module,Magento_Backend
+"[ deleted ]","[ ลบ ]",module,Magento_Backend
+"Select All",เลือกทั้งหมด,module,Magento_Backend
+" [deleted]",[ลบทิ้งแล้ว],module,Magento_Backend
+"Add New",เพิ่มใหม่,module,Magento_Backend
+Export,ส่งออก,module,Magento_Backend
+"Please correct the column format and try again.","กรุณาแก้ไขรูปแบบของคอลัมน์ และลองอีกครั้ง",module,Magento_Backend
+"Please select items.",กรุณาเลือกรายการ,module,Magento_Backend
+Submit,ส่ง,module,Magento_Backend
+"Unknown block type",ประเภทบล็อกที่ไม่รู้จัก,module,Magento_Backend
+"Please correct the tab configuration and try again. Tab Id should be not empty","กรุณาแก้ไขการกำหนดค่าแท็บ และลองอีกครั้ง Id ของแท็บไม่ว่างเปล่า",module,Magento_Backend
+"Please correct the tab configuration and try again.","กรุณาแก้ไขการกำหนดค่าแท็บ และลองอีกครั้ง",module,Magento_Backend
+"You have logged out.",คุณได้ออกจากระบบแล้ว,module,Magento_Backend
+"The image cache was cleaned.",ล้างแคชภาพแล้ว,module,Magento_Backend
+"An error occurred while clearing the image cache.",ข้อผิดพลาดเกิดขึ้นขณะล้างภาพแคชภาพ,module,Magento_Backend
+"The JavaScript/CSS cache has been cleaned.","ล้างแคช JavaScript/CSS แล้ว",module,Magento_Backend
+"An error occurred while clearing the JavaScript/CSS cache.","ข้อผิดพลาดเกิดขึ้นขณะล้างแคช JavaScript/CSS",module,Magento_Backend
+"The static files cache has been cleaned.",ล้างแคชไฟล์แล้ว,module,Magento_Backend
+"You flushed the cache storage.",คุณล้างที่เก็บข้อมูลแคช,module,Magento_Backend
+"The Magento cache storage has been flushed.","ที่เก็บข้อมูลแคชของ Magento ถูกล้างแล้ว",module,Magento_Backend
+"Cache Management",การจัดการแคช,module,Magento_Backend
+Dashboard,แดชบอร์ด,module,Magento_Backend
+Error,ข้อผิดพลาด,module,Magento_Backend
+"Access Denied.",ไม่อนุญาตให้เข้าถึง,module,Magento_Backend
+"You need more permissions to do this.",คุณต้องการให้สิทธิ์เพิ่มเติมเพื่อทำสิ่งนี้,module,Magento_Backend
+"This store cannot be deleted.",ร้านนี้ไม่สามารถลบ,module,Magento_Backend
+"Unable to delete the store. Please try again later.","ไม่สามารถลบร้านค้านี้ กรุณาลองใหม่ภายหลัง",module,Magento_Backend
+"This store view cannot be deleted.",มุมมองร้านค้าไม่สามารถลบได้,module,Magento_Backend
+"Store View",มุมมองร้านค้า,module,Magento_Backend
+"You deleted the store view.",คุณลบมุมมองร้านค้าแล้ว,module,Magento_Backend
+"Unable to delete the store view. Please try again later.","ไม่สามารถลบมุมมองร้านค้านี้ กรุณาลองใหม่ภายหลัง",module,Magento_Backend
+"This website cannot be deleted.",เว็บไซต์นี้ไม่สามารถลบได้,module,Magento_Backend
+"You deleted the website.",คุณลบเว็บไซต์แล้ว,module,Magento_Backend
+"Unable to delete the website. Please try again later.","ไม่สามารถลบเว็บไซต์นี้ กรุณาลองใหม่ภายหลัง",module,Magento_Backend
+"The website does not exist.",ไม่มีเว็บไซต์,module,Magento_Backend
+"The store does not exist",ไม่มีร้านค้า,module,Magento_Backend
+"Store view doesn't exist",มุมมองร้านไม่มีอยู่,module,Magento_Backend
+"New ","สร้างใหม่ ",module,Magento_Backend
+"All Stores",ร้านค้าทั้งหมด,module,Magento_Backend
+"You saved the website.",คุณบันทึกเว็บไซต์แล้ว,module,Magento_Backend
+"The default store cannot be disabled","ร้านค้าเริ่มต้น ไม่สามารถปิดการใช้งานได้",module,Magento_Backend
+"You saved the store view.",คุณบันทึกมุมมองร้านแล้ว,module,Magento_Backend
+"You saved the store.",คุณบันทึกร้านค้าแล้ว,module,Magento_Backend
+"Something went wrong while saving. Please review the error log.","เกิดข้อผิดพลาดขณะกำลังบันทึก โปรดตรวจสอบ log ข้อผิดพลาด",module,Magento_Backend
+"Last 24 Hours","24 ชั่วโมงล่าสุด",module,Magento_Backend
+"Last 7 Days","7 วันล่าสุด",module,Magento_Backend
+"Current Month",เดือนปัจจุบัน,module,Magento_Backend
+Order,รายการสั่งซื้อ,module,Magento_Backend
+"Order #%1","รายการสั่งซื้อ #%1",module,Magento_Backend
+"Welcome, please sign in","ยินดีต้อนรับ กรุณาเข้าสู่ระบบ",module,Magento_Backend
+Username,ชื่อผู้ใช้,module,Magento_Backend
+"user name",ชื่อผู้ใช้,module,Magento_Backend
+Password,รหัสผ่าน,module,Magento_Backend
+password,รหัสผ่าน,module,Magento_Backend
+"Sign in",ลงชื่อเข้าใช้,module,Magento_Backend
+"Select Range:",เลือก,module,Magento_Backend
+"No Data Found",ไม่พบข้อมูล,module,Magento_Backend
+"Last Orders",คำสั่งซื้อล่าสุด,module,Magento_Backend
+"Last Search Terms",การค้นหาล่าสุด,module,Magento_Backend
+"Top Search Terms",การค้าหาสูงสุด,module,Magento_Backend
+"There are no search keywords.","ไม่พบ keyword การค้นหา",module,Magento_Backend
+"View Statistics For:",ดูสถิติ,module,Magento_Backend
+"Sign Out",ออกจากระบบ,module,Magento_Backend
+"About the calendar",เกี่ยวกับปฏิทิน,module,Magento_Backend
+Close,ปิด,module,Magento_Backend
+"Go Today","ไปที่ วันนี้",module,Magento_Backend
+Previous,ก่อนหน้านี้,module,Magento_Backend
+Next,ถัดไป,module,Magento_Backend
+Time,เวลา,module,Magento_Backend
+Hour,ชั่วโมง,module,Magento_Backend
+Catalog,แค็ตตาล็อก,module,Magento_Backend
+"JavaScript/CSS Cache","JavaScript/CSS แคช",module,Magento_Backend
+Images,รูปภาพ,module,Magento_Backend
+"Big Image",รูปภาพใหญ่,module,Magento_Backend
+Thumbnail,รูปขนาดย่อ,module,Magento_Backend
+selected,เลือกแล้ว,module,Magento_Backend
+"per page",ต่อหน้า,module,Magento_Backend
+"Previous page",หน้าก่อนหน้า,module,Magento_Backend
+"of %1","ของ %1",module,Magento_Backend
+"Next page",หน้าถัดไป,module,Magento_Backend
+"Export to:",ส่งออก,module,Magento_Backend
+Actions,การดำเนินการ,module,Magento_Backend
+"Unselect All",ยกเลิกการเลือกทั้งหมด,module,Magento_Backend
+Loading...,กำลังโหลด...,module,Magento_Backend
+"System Backup",สำรองข้อมูลระบบ,module,Magento_Backup
+"Database and Media Backup","สำรองข้อมูล ฐานข้อมูลและสื่อ",module,Magento_Backup
+"Database Backup","การสำรองข้อมูล ฐานข้อมูล",module,Magento_Backup
+Backups,การสำรองข้อมูล,module,Magento_Backup
+System,ระบบ,module,Magento_Backup
+Tools,เครื่องมือ,module,Magento_Backup
+Backup,การสำรองข้อมูล,module,Magento_Backup
+failed,ล้มเหลว,module,Magento_Backup
+successful,สำเร็จแล้ว,module,Magento_Backup
+"You deleted the selected backup(s).","คุณลบ backup(s) ที่เลือกแล้ว",module,Magento_Backup
+"Please correct the password.",โปรดแก้ไขรหัสผ่าน,module,Magento_Backup
+"Failed to validate FTP.","ล้มเหลวในการตรวจสอบ FTP",module,Magento_Backup
+Database,ฐานข้อมูล,module,Magento_Backup
+"Database and Media",ฐานข้อมูลและสื่อ,module,Magento_Backup
+"System (excluding Media)","ระบบ (ไม่รวม สื่อ)",module,Magento_Backup
+"You created the system backup.",คุณสร้างการสำรองข้อมูลระบบแล้ว,module,Magento_Backup
+"You created the system backup (excluding media).","คุณสร้างการสำรองข้อมูล (ไม่รวมสื่อ) แล้ว",module,Magento_Backup
+"You created the database and media backup.","คุณสร้างการสำรองข้อมูล ฐานข้อมูลและสื่อ แล้ว",module,Magento_Backup
+"You created the database backup.","คุณสร้างการสำรองข้อมูล ฐานข้อมูล แล้ว",module,Magento_Backup
+"Are you sure you want to continue?",คุณแน่ใจว่าต้องการดำเนินการต่อ?,module,Magento_Backup
+"This may take a few moments.",อาจใช้เวลาสักครู่…,module,Magento_Backup
+"Be sure your store is in maintenance mode during backup.","โปรดตรวจสอบให้แน่ใจว่าร้านค้าของคุณได้เปลี่ยนเป็น โหมดการบำรุงรักษา ในระหว่างการสำรองข้อมูล",module,Magento_Backup
+"Backup Name",ชื่อการสำรองข้อมูล,module,Magento_Backup
+"Please use only letters (a-z or A-Z), numbers (0-9) or spaces in this field.","โปรดใช้เฉพาะตัวอักษร (a-z หรือ A-z), ตัวเลข (0-9) หรือ spaces ในฟิลด์นี้",module,Magento_Backup
+"Maintenance mode",โหมดการบำรุงรักษา,module,Magento_Backup
+"Please put your store into maintenance mode during backup.","กรุณาเปลี่ยนร้านค้าของคุณเป็น โหมดการบำรุงรักษา ในระหว่างการสำรองข้อมูล",module,Magento_Backup
+Exclude,ไม่รวม,module,Magento_Backup
+"Exclude media folder from backup","ยกเว้นโฟลเดอร์ สื่อ ในการสำรองข้อมูล",module,Magento_Backup
+"Please enter the password to confirm rollback.","โปรดระบุ รหัสผ่าน เพื่อยืนยันการ คืนค่าย้อนกลับ",module,Magento_Backup
+"This action cannot be undone.",การกระทำนี้ไม่สามารถยกเลิกได้,module,Magento_Backup
+"User Password",รหัสผ่านของคุณ,module,Magento_Backup
+"Please put your store into maintenance mode during rollback processing.","กรุณาเปลี่ยนร้านค้าของคุณเป็น โหมดการบำรุงรักษา ในระหว่างการเรียกข้อมูลย้อนกลับ",module,Magento_Backup
+"Use FTP Connection","ใช้การเชื่อมต่อ FTP",module,Magento_Backup
+"FTP credentials","ข้อมูลรับรอง FTP",module,Magento_Backup
+"FTP Login","เข้าสู่ระบบ FTP",module,Magento_Backup
+"FTP Password","รหัสผ่าน FTP",module,Magento_Backup
+"Create Backup",สร้างการสำรองข้อมูลใหม่,module,Magento_Backup
+"PayPal Account","บัญชี PayPal",module,Magento_Braintree
+Always,ทุกครั้ง,module,Magento_Captcha
+"Shopping Cart",ตระกร้าสินค้า,module,Magento_Checkout
+City,เมือง,module,Magento_Checkout
+Country,ประเทศ,module,Magento_Checkout
+State/Province,จังหวัด,module,Magento_Checkout
+"Zip/Postal Code",รหัสไปรษณีย์,module,Magento_Checkout
+"My Cart (1 item)","ตะกร้า (1 ชิ้น)",module,Magento_Checkout
+"My Cart (%1 items)","ตะกร้า (%1 ชิ้น)",module,Magento_Checkout
+"My Cart",ตะกร้า,module,Magento_Checkout
+"Out of stock",สินค้าหมด,module,Magento_Checkout
+Checkout,ชำระเงิน,module,Magento_Checkout
+"Page not found.",ไม่พบหน้านี้,module,Magento_Checkout
+"Payment Page",หน้าการชำระเงิน,module,Magento_Checkout
+" item"," รายการ",module,Magento_Checkout
+" items"," รายการ",module,Magento_Checkout
+Error!,ข้อผิดพลาด!,module,Magento_Checkout
+"Update Cart","อัพเดท ตะกร้าสินค้า",module,Magento_Checkout
+"See price before order confirmation.",โปรดตรวจสอบราคาก่อนยืนยันการสั่งซื้อ,module,Magento_Checkout
+"What's this?",นี่คืออะไร?,module,Magento_Checkout
+"Edit item parameters","แก้ไข item parameters",module,Magento_Checkout
+Edit,แก้ไข,module,Magento_Checkout
+"Remove item",ลบสินค้า,module,Magento_Checkout
+"You have no items in your shopping cart.",คุณไม่มีสินค้าในตะกร้า,module,Magento_Checkout
+"Click <a href=""%1"">here</a> to continue shopping.","คลิก <a href=""%1"">ที่นี่</a> เพื่อช้อปปิ้งต่อ",module,Magento_Checkout
+"Estimate Tax",ภาษีโดยประมาณ,module,Magento_Checkout
+"Estimate Shipping and Tax","ค่าจัดส่ง และภาษี โดยประมาณ",module,Magento_Checkout
+"Excl. Tax",ไม่รวมภาษี,module,Magento_Checkout
+Loading...,กำลังโหลด...,module,Magento_Checkout
+"Order #","รายการสั่งซื้อ #",module,Magento_Checkout
+"Proceed to Checkout",เริ่มชำระเงิน,module,Magento_Checkout
+"Product Name",ชื่อสินค้า,module,Magento_Checkout
+"Incl. Tax",รวมภาษี,module,Magento_Checkout
+"Your order number is: %1.","รหัสการสั่งซื้อของคุณคือ %1",module,Magento_Checkout
+"Your order # is: <span>%1</span>.","คำสั่งซื้อ #: <span>%1</span>.",module,Magento_Checkout
+"Page not found.",ไม่พบหน้านี้,module,Magento_Contact
+"An error occurred while processing your form. Please try again later.","เกิดข้อผิดพลาดขณะดำเนินการ กรุณาลองใหม่อีกครั้งในภายหลัง",module,Magento_Contact
+"* Required Fields",ข้อมูลที่จำเป็นต้องกรอก,module,Magento_Contact
+"Write Us",เขียนข้อความ,module,Magento_Contact
+"Jot us a note and we’ll get back to you as quickly as possible.","ส่งโน้ตถึงเรา เราจะตอบกลับโดยเร็วที่สุด",module,Magento_Contact
+Name,ชื่อ,module,Magento_Contact
+Email,อีเมล,module,Magento_Contact
+"Phone Number",เบอร์โทรศัพท์,module,Magento_Contact
+"What’s on your mind?",คุณคิดอะไรอยู่?,module,Magento_Contact
+Submit,ยืนยัน,module,Magento_Contact
+"Invalid domain name: %1","ชื่อโดเมนไม่ถูกต้อง: %1",module,Magento_Cookie
+"Save Currency Rates",บันทึกอัตราแลกเปลี่ยนสกุลเงิน,module,Magento_CurrencySymbol
+Options,ตัวเลือก,module,Magento_CurrencySymbol
+Reset,รีเซ็ต,module,Magento_CurrencySymbol
+Import,นำเข้า,module,Magento_CurrencySymbol
+"Manage Currency Rates",จัดการอัตราแลกเปลี่ยนสกุลเงิน,module,Magento_CurrencySymbol
+"Import Service",บริการนำเข้า,module,Magento_CurrencySymbol
+"Save Currency Symbols","บันทึก สัญญลักษณ์ สกุลเงิน",module,Magento_CurrencySymbol
+"Currency Symbols",สัญลักษณ์สกุลเงิน,module,Magento_CurrencySymbol
+"Use Standard",ใช้มาตรฐาน,module,Magento_CurrencySymbol
+"Click ""Save"" to apply the rates we found.","คลิก ""บันทึก"" เพื่อใช้กับอัตราที่เราพบ",module,Magento_CurrencySymbol
+"Currency Rates",อัตราแลกเปลี่ยนสกุลเงิน,module,Magento_CurrencySymbol
+"Please correct the input data for ""%1 => %2"" rate.","กรุณาแก้ไขข้อมูลป้อนเข้า เรท ""%1 => %2""",module,Magento_CurrencySymbol
+"All valid rates have been saved.","บันทึกเรท ทั้งหมดแล้ว",module,Magento_CurrencySymbol
+System,ระบบ,module,Magento_CurrencySymbol
+"You applied the custom currency symbols.",คุณได้ใช้สัญลักษณ์สกุลเงินแบบกำหนดเองแล้ว,module,Magento_CurrencySymbol
+"You must first configure currency options before being able to see currency rates.","คุณต้องตั้งค่าตัวเลือกสกุลเงินก่อน จึงจะสามารถดูอัตราแลกเปลี่ยนสกุลเงินได้",module,Magento_CurrencySymbol
+"Old rate:",อัตราเก่า:,module,Magento_CurrencySymbol
+"Sign Out",ออกจากระบบ,module,Magento_Customer
+"Sign In",เข้าสู่ระบบ,module,Magento_Customer
+"You are subscribed to our newsletter.",คุณสมัครสมาชิกจดหมายข่าวของเราแล้ว,module,Magento_Customer
+"You aren't subscribed to our newsletter.",คุณไม่ได้สมัครสมาชิกจดหมายข่าวของเรา,module,Magento_Customer
+"You have not set a default shipping address.",คุณไม่ได้ตั้งค่าเริ่มต้นที่อยู่จัดส่ง,module,Magento_Customer
+"You have not set a default billing address.",คุณไม่ได้ตั้งค่าเริ่มต้นที่อยู่ในการออกใบเสร็จ,module,Magento_Customer
+"Address Book",ข้อมูลที่อยู่จัดส่งสินค้า,module,Magento_Customer
+"Edit Address",แก้ไขที่อยู่จัดส่งสินค้า,module,Magento_Customer
+"Add New Address",เพิ่มที่อยู่ใหม่,module,Magento_Customer
+region,ภูมิภาค,module,Magento_Customer
+"Create Order",สร้างคำสั่งซื้อ,module,Magento_Customer
+"Save Customer",บันทึกลูกค้า,module,Magento_Customer
+"Delete Customer",ลบลูกค้า,module,Magento_Customer
+"Reset Password",รีเซ็ตรหัสผ่าน,module,Magento_Customer
+"Force Sign-In",บังคับให้ลงชื่อเข้าใช้,module,Magento_Customer
+"New Customer",ลูกค้าใหม่,module,Magento_Customer
+"Save and Continue Edit","บันทึก และแก้ไขต่อไป",module,Magento_Customer
+Back,ย้อนกลับ,module,Magento_Customer
+"Please select",กรุณาเลือก,module,Magento_Customer
+Reset,รีเซ็ต,module,Magento_Customer
+ID,ไอดี,module,Magento_Customer
+Product,สินค้า,module,Magento_Customer
+SKU,รหัสสินค้า,module,Magento_Customer
+Quantity,จำนวน,module,Magento_Customer
+Price,ราคา,module,Magento_Customer
+Total,รวม,module,Magento_Customer
+Action,ดำเนินการ,module,Magento_Customer
+Configure,ตั้งค่า,module,Magento_Customer
+Delete,ลบ,module,Magento_Customer
+"Shopping Cart from %1","รถเข็น %1",module,Magento_Customer
+Newsletter,จดหมายข่าว,module,Magento_Customer
+"Start date",วันที่เริ่มต้น,module,Magento_Customer
+"End Date",ถึงวันที่,module,Magento_Customer
+Subject,หัวข้อ,module,Magento_Customer
+Status,สถานะ,module,Magento_Customer
+Sent,ส่งแล้ว,module,Magento_Customer
+Cancel,ยกเลิก,module,Magento_Customer
+Sending,กำลังส่ง...,module,Magento_Customer
+Paused,ถูกหยุดชั่วคราว,module,Magento_Customer
+View,มุมมอง,module,Magento_Customer
+Unknown,ไม่ทราบ,module,Magento_Customer
+Order,รายการสั่งซื้อ,module,Magento_Customer
+Purchased,สั่งซื้อ,module,Magento_Customer
+"My Account",บัญชีของฉัน,module,Magento_Customer
+Customers,ลูกค้า,module,Magento_Customer
+"New Group",สร้างกลุ่มใหม่,module,Magento_Customer
+"Credit Card Information",ข้อมูลบัตรเครดิต,module,Magento_Braintree
+"What is this?",นี่คืออะไร?,module,Magento_Braintree
+"Save for later use.",เก็บไว้สำหรับใ้ช้ภายหลัง,module,Magento_Braintree
+"Place Order",สั่งสินค้า,module,Magento_Braintree
+"Payment Transaction Failed Reminder",แจ้งเตือนการชำระเงินล้มเหลว,module,Magento_Checkout
+"Payment Transaction Failed",การชำระเงินล้มเหลว,module,Magento_Checkout
+Reason,สาเหตุ,module,Magento_Checkout
+"Checkout Type",รูปแบบการชำระเงิน,module,Magento_Checkout
+Customer:,ลูกค้า:,module,Magento_Checkout
+Items,รายการ,module,Magento_Checkout
+Total:,รวม:,module,Magento_Checkout
+"Billing Address:",ที่อยู่ในการเรียกเก็บเงิน,module,Magento_Checkout
+"Shipping Address:",ที่อยู่จัดส่งสินค้า,module,Magento_Checkout
+"Shipping Method:",วิธีการจัดส่ง:,module,Magento_Checkout
+"Payment Method:",วิธีการชำระเงิน:,module,Magento_Checkout
+"Date & Time:",วันและเวลา,module,Magento_Checkout
+"Sign In",เข้าสู่ระบบ,module,Magento_Checkout
+"Email Address",ที่อยู่อีเมล,module,Magento_Checkout
+Password,รหัสผ่าน,module,Magento_Checkout
+"Forgot Your Password?",ลืมรหัสผ่าน?,module,Magento_Checkout
+"My billing and shipping address are the same","ที่อยู่ใบเสร็จ และที่อยู่จัดส่งสินค้า เป็นที่อยู่เดียวกัน",module,Magento_Checkout
+Update,อัพเดท,module,Magento_Checkout
+Cancel,ยกเลิก,module,Magento_Checkout
+"Save in address book",บันทึกในสมุดเก็บที่อยู่,module,Magento_Checkout
+"Estimated Total",ราคารวมโดยประมาณ,module,Magento_Checkout
+"You can create an account after checkout.","คุณสามารถสร้างบัญชีผู้ใช้ได้ หลังจากทำการชำระเงิน",module,Magento_Checkout
+"You already have an account with us. Sign in or continue as guest.","คุณมีบัญชีอยู่กับเราแล้ว ลงชื่อเข้าใช้ หรือดำเนินการต่อ",module,Magento_Checkout
+Login,เข้าสู่ระบบ,module,Magento_Checkout
+"See Details",ดูรายละเอียด,module,Magento_Checkout
+"Options Details",รายละเอียดตัวเลือก,module,Magento_Checkout
+Remove,ลบ,module,Magento_Checkout
+"Cart Subtotal",ผลรวมย่อยของรถเข็น,module,Magento_Checkout
+"Payment Information",ข้อมูลการชำระเงิน,module,Magento_Checkout
+"No Payment method available.",ไม่มีวิธีการชำระเงินที่ไม่พร้อมใช้งาน,module,Magento_Checkout
+"You can track your order status by creating an account.","คุณสามารถติดตามสถานะการสั่งซื้อ โดยการสร้างบัญชี",module,Magento_Checkout
+"Contact Form",แบบฟอร์มการติดต่อ,module,Magento_Contact
+"This payment is not available",การชำระเงินนี้ไม่สามารถใช้งานได้,module,Magento_Braintree
+MM,เดือน,module,Magento_Braintree
+YY,ปี,module,Magento_Braintree
+"Sorry, but something went wrong.","ขออภัย! มีบางอย่างผิดปกติ",module,Magento_Braintree
+"Payment ","การชำระเงิน ",module,Magento_Braintree
+"Show Toolbar",แสดงแถบเครื่องมือ,module,Magento_AdminNotification
+"Show List",แสดงรายการ,module,Magento_AdminNotification
+"Last Update",อัปเดตล่าสุด,module,Magento_AdminNotification
+"Date Added",วันที่เพิ่ม:,module,Magento_AdminNotification
+Message,ข้อ​ความ,module,Magento_AdminNotification
+Actions,การดำเนินการ,module,Magento_AdminNotification
+Enabled,เปิดใช้งาน,module,Magento_Authorizenet
+"Test Mode",โหมดทดสอบ:,module,Magento_Authorizenet
+"Credit Card Types",ประเภทบัตรเครดิต,module,Magento_Authorizenet
+"Allow everything",อนุญาตทุกสิ่ง,module,Magento_Backend
+"Magento Admin","Magento แอดมิน",module,Magento_Backend
+Marketing,การตลาด,module,Magento_Backend
+"SEO & Search","SEO และ ค้นหา",module,Magento_Backend
+"User Content","เนื้อหา ของผู้ใช้",module,Magento_Backend
+Content,เนื้อหา,module,Magento_Backend
+Design,การออกแบบ,module,Magento_Backend
+Schedule,กำหนดการ,module,Magento_Backend
+Settings,การตั้งค่า,module,Magento_Backend
+Attributes,คุณสมบัติ,module,Magento_Backend
+"Other Settings",การตั้งค่าอื่นๆ,module,Magento_Backend
+"Data Transfer",โอนถ่ายข้อมูล,module,Magento_Backend
+"Magento Connect","เนื้อหาของ Magento",module,Magento_Backend
+Tools,เครื่องมือ,module,Magento_Backend
+"Web Setup Wizard",ตัวช่วยการตั้งค่าเว็บไซต์,module,Magento_Backend
+Currency,สกุลเงิน,module,Magento_Backend
+Services,บริการ,module,Magento_Backend
+Advanced,ขั้นสูง,module,Magento_Backend
+"Store Email Addresses",อีเมลร้านค้า,module,Magento_Backend
+"Sender Email","Email ผู้ส่ง",module,Magento_Backend
+"Sender Name",ชื่อผู้ส่ง,module,Magento_Backend
+Developer,นักพัฒนา,module,Magento_Backend
+"Default Country","ประเทศ ค่าตั้งต้น",module,Magento_Backend
+"European Union Countries","ประเทศ สหภาพยุโรป",module,Magento_Backend
+Timezone,เขตเวลา,module,Magento_Backend
+"First Day of Week",วันแรกของสัปดาห์,module,Magento_Backend
+"Store Name",ชื่อร้านค้า,module,Magento_Backend
+"Store Phone Number",หมายเลขโทรศัพท์ของร้านค้า,module,Magento_Backend
+"Store Hours of Operation",เวลาทำการของร้านค้า,module,Magento_Backend
+Country,ประเทศ,module,Magento_Backend
+"ZIP/Postal Code",รหัสไปรษณีย์,module,Magento_Backend
+City,เมือง,module,Magento_Backend
+"Street Address",ที่อยู่,module,Magento_Backend
+"Street Address Line 2","ที่อยู่ เพิ่มเติม",module,Magento_Backend
+"VAT Number",เลขประจำตัวผู้เสียภาษี,module,Magento_Backend
+"Single-Store Mode","โหมด Single-Store",module,Magento_Backend
+"Enable Single-Store Mode","เปิดใช้งาน โหมด Single-Store",module,Magento_Backend
+"This setting will not be taken into account if system has more than one store view.","การตั้งค่านี้จะมีผล เมื่อระบบมีมากกว่า 1 มุมมองร้านค้า",module,Magento_Backend
+"Mail Sending Settings",ตั้งค่าการส่งเมล,module,Magento_Backend
+"Disable Email Communications","ปิดใช้งาน Email Communications",module,Magento_Backend
+Admin,ผู้ดูแลระบบ,module,Magento_Backend
+Security,ความปลอดภัย,module,Magento_Backend
+"Login is Case Sensitive","ชื่อผู่ใช้ ระวังตัวพิมพ์เล็ก พิมพ์ใหญ่",module,Magento_Backend
+"Admin Session Lifetime (seconds)","ระยะเวลาการเข้าใช้งานของผู้ดูแลระบบ (วินาที)",module,Magento_Backend
+"Please enter at least 60 and at most 31536000 (one year).","โปรดระบุตัวเลขอย่างน้อย 60 และ มากที่สุด 31536000 (1 ปี)",module,Magento_Backend
+"Enable Charts","เปิดใช้งาน Charts",module,Magento_Backend
+Web,เว็บไซต์,module,Magento_Backend
+"Default Pages",หน้าเริ่มต้น,module,Magento_Backend
+"Default Web URL","URL ของเว็บเริ่มต้น",module,Magento_Backend
+"Default Theme",ธีมเริ่มต้น,module,Magento_Backend
+Pagination,เลขหน้า,module,Magento_Backend
+"How many links to display at once.","จำนวนลิ้งก์ ที่แสดงใน 1 ครั้ง",module,Magento_Backend
+"Pagination Frame",เฟรมการแบ่งตัวเลขหน้า,module,Magento_Backend
+"Theme Name",ชื่อธีม,module,Magento_Backend
+Rollback,เรียกคืนค่าย้อนกลับ,module,Magento_Backup
+"Enable Scheduled Backup","เปิดการใช้งาน การสำรองข้อมูลล่วงหน้า",module,Magento_Backup
+"Start Time",วันที่เริ่มต้น,module,Magento_Backup
+Frequency,ความถี่,module,Magento_Backup
+"Maintenance Mode",โหมดการบำรุงรักษา,module,Magento_Backup
+Delete,ลบ,module,Magento_Backup
+"Are you sure you want to delete the selected backup(s)?","คุณแน่ใจว่าต้องการลบ backup(s) ที่เลือกหรือไม่?",module,Magento_Backup
+Time,เวลา,module,Magento_Backup
+Name,ชื่อ,module,Magento_Backup
+Size(bytes),ขนาด(bytes),module,Magento_Backup
+Type,ชนิด,module,Magento_Backup
+Download,ดาวน์โหลด,module,Magento_Backup
+Action,ดำเนินการ,module,Magento_Backup
+"Merchant ID","ID ร้านค้า",module,Magento_Braintree
+"CVV Verification","รหัส CVV",module,Magento_Braintree
+"Credit Card Types",ประเภทบัตรเครดิต,module,Magento_Braintree
+"Sort Order",เรียงลำดับ,module,Magento_Braintree
+Name,ชื่อ,module,Magento_Braintree
+"Contacts Section",ส่วนการติดต่อ,module,Magento_Contact
+Contacts,การติดต่อ,module,Magento_Contact
+"Contact Us",ติดต่อเรา,module,Magento_Contact
+"Enable Contact Us","เปิดใช้งาน การติดต่อเรา",module,Magento_Contact
+"Email Options","อีเมล ตัวเลือก",module,Magento_Contact
+"Send Emails To",ส่งอีเมลถึง,module,Magento_Contact
+"Email Sender",ผู้ส่งอีเมล,module,Magento_Contact
+"Email Template",เทมเพลตอีเมล,module,Magento_Contact
+"Email template chosen based on theme fallback when ""Default"" option is selected.","อีเมลเทมเพลทจะเลือกตาม ค่าตั้งต้นที่ถูกเลือก",module,Magento_Contact
+Currency,สกุลเงิน,module,Magento_CurrencySymbol
